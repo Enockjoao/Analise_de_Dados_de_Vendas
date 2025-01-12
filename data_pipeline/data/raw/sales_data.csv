@@ -1,0 +1,1001 @@
+id,product,category,quantity,price,date
+1,Jacket,Clothing,14,29.8,2024-04-04
+2,Jeans,Clothing,7,888.45,2023-04-23
+3,Desk,Furniture,19,1185.39,2024-03-26
+4,Stapler,Office Supplies,9,1574.91,2024-11-04
+5,Jeans,Clothing,4,1720.39,2024-01-23
+6,Tablet,Electronics,1,947.45,2024-09-15
+7,Jacket,Clothing,11,1091.64,2023-10-05
+8,Smartwatch,Electronics,8,654.63,2024-12-06
+9,Chair,Furniture,2,482.99,2024-06-25
+10,Jeans,Clothing,15,437.52,2024-08-26
+11,Laptop,Electronics,6,421.7,2023-02-18
+12,Board Game,Toys,12,702.23,2023-02-16
+13,Doll,Toys,16,1559.54,2023-03-30
+14,Headphones,Electronics,13,198.94,2024-05-12
+15,Action Figure,Toys,9,1559.24,2024-09-11
+16,Pencil,Office Supplies,12,435.42,2024-10-22
+17,Doll,Toys,8,193.45,2024-01-03
+18,Desk,Furniture,7,683.84,2023-01-24
+19,Stapler,Office Supplies,5,1087.41,2023-04-18
+20,Bookshelf,Furniture,3,1206.57,2025-01-02
+21,Board Game,Toys,10,1793.13,2024-11-08
+22,Jacket,Clothing,20,1781.3,2023-05-14
+23,Marker,Office Supplies,13,735.11,2023-12-20
+24,Couch,Furniture,5,1106.44,2024-01-01
+25,Desk,Furniture,8,828.21,2023-01-12
+26,Pencil,Office Supplies,20,958.18,2023-12-10
+27,Action Figure,Toys,11,153.74,2023-06-18
+28,Action Figure,Toys,1,1771.27,2024-06-29
+29,Notebook,Office Supplies,16,216.88,2024-12-18
+30,Stapler,Office Supplies,12,1304.36,2023-04-24
+31,Shoes,Clothing,16,130.08,2024-11-27
+32,Tablet,Electronics,12,1353.08,2024-05-30
+33,Notebook,Office Supplies,15,276.96,2023-09-03
+34,Headphones,Electronics,14,20.45,2023-05-15
+35,Laptop,Electronics,20,1659.01,2024-11-21
+36,Table,Furniture,2,1428.94,2025-01-05
+37,Doll,Toys,10,1518.54,2024-11-22
+38,Dress,Clothing,10,1215.26,2023-08-12
+39,Pen,Office Supplies,10,1001.85,2023-03-25
+40,Desk,Furniture,18,1196.35,2024-06-03
+41,Pen,Office Supplies,6,1011.49,2023-10-18
+42,Pen,Office Supplies,17,1462.66,2023-07-25
+43,Jacket,Clothing,1,508.39,2023-03-17
+44,Headphones,Electronics,1,915.19,2023-10-27
+45,Tablet,Electronics,15,1168.21,2024-06-11
+46,Pen,Office Supplies,3,565.66,2024-12-14
+47,Chair,Furniture,16,1766.74,2024-05-30
+48,Chair,Furniture,10,306.41,2023-05-20
+49,Board Game,Toys,13,461.18,2023-02-21
+50,Doll,Toys,9,1310.84,2023-11-15
+51,Jacket,Clothing,13,1846.0,2024-05-11
+52,Bookshelf,Furniture,18,1092.44,2023-09-06
+53,Shoes,Clothing,9,1985.88,2024-07-28
+54,Table,Furniture,11,1337.27,2024-07-08
+55,Laptop,Electronics,3,406.27,2024-08-20
+56,Couch,Furniture,5,130.57,2023-07-12
+57,Shirt,Clothing,1,1219.98,2023-12-11
+58,Lego Set,Toys,4,1359.65,2024-06-04
+59,Bookshelf,Furniture,11,920.62,2023-03-23
+60,Doll,Toys,17,253.57,2024-07-11
+61,Shoes,Clothing,10,1897.59,2023-03-26
+62,Action Figure,Toys,19,1012.57,2023-01-12
+63,Laptop,Electronics,12,1778.55,2023-06-26
+64,Laptop,Electronics,15,1322.96,2024-01-17
+65,Smartphone,Electronics,8,1283.41,2023-03-13
+66,Action Figure,Toys,3,590.08,2023-04-25
+67,Marker,Office Supplies,10,1759.3,2024-04-17
+68,Bookshelf,Furniture,16,1965.2,2023-07-06
+69,Desk,Furniture,2,1420.41,2024-02-19
+70,Smartwatch,Electronics,12,280.62,2024-06-23
+71,Pen,Office Supplies,5,1916.3,2023-12-23
+72,Shirt,Clothing,8,1652.51,2023-01-19
+73,Table,Furniture,1,1699.14,2023-01-18
+74,Desk,Furniture,13,142.96,2024-07-05
+75,Pen,Office Supplies,13,937.58,2023-10-05
+76,Chair,Furniture,14,976.46,2024-10-07
+77,Lego Set,Toys,19,310.09,2023-04-15
+78,Chair,Furniture,1,614.39,2024-11-10
+79,Pencil,Office Supplies,5,916.76,2023-12-06
+80,Pen,Office Supplies,5,1817.64,2024-07-04
+81,Puzzle,Toys,7,1270.93,2023-04-24
+82,Action Figure,Toys,10,350.12,2024-01-18
+83,Smartphone,Electronics,12,1616.65,2023-03-08
+84,Doll,Toys,4,1940.38,2023-07-08
+85,Jeans,Clothing,18,1715.29,2023-11-05
+86,Jacket,Clothing,9,1066.77,2023-03-22
+87,Puzzle,Toys,6,1996.11,2024-08-01
+88,Headphones,Electronics,13,949.19,2024-09-29
+89,Smartphone,Electronics,10,1664.47,2023-04-01
+90,Laptop,Electronics,12,359.79,2023-04-02
+91,Shoes,Clothing,17,136.82,2023-09-12
+92,Pencil,Office Supplies,8,310.77,2023-10-24
+93,Shirt,Clothing,10,784.82,2024-11-26
+94,Jeans,Clothing,17,987.12,2023-09-01
+95,Shoes,Clothing,12,1337.89,2023-04-28
+96,Pen,Office Supplies,9,1699.9,2023-11-05
+97,Board Game,Toys,7,582.37,2024-09-03
+98,Dress,Clothing,7,209.23,2024-10-04
+99,Shirt,Clothing,8,1294.38,2024-08-18
+100,Smartphone,Electronics,1,176.35,2024-11-21
+101,Pen,Office Supplies,1,1708.56,2023-04-25
+102,Bookshelf,Furniture,5,234.28,2024-05-24
+103,Pencil,Office Supplies,13,865.81,2024-06-20
+104,Bookshelf,Furniture,18,1828.3,2023-05-02
+105,Puzzle,Toys,3,1787.38,2023-03-06
+106,Desk,Furniture,8,1707.25,2024-02-28
+107,Puzzle,Toys,4,1831.32,2024-03-24
+108,Marker,Office Supplies,7,413.23,2023-01-18
+109,Jeans,Clothing,2,48.24,2024-04-30
+110,Smartphone,Electronics,16,1123.77,2024-05-30
+111,Jacket,Clothing,15,1549.85,2023-05-19
+112,Couch,Furniture,12,926.78,2023-12-19
+113,Laptop,Electronics,13,1960.64,2023-10-11
+114,Tablet,Electronics,20,487.01,2024-07-26
+115,Jeans,Clothing,12,282.84,2023-06-26
+116,Smartwatch,Electronics,7,1478.88,2024-05-13
+117,Marker,Office Supplies,5,800.3,2024-08-15
+118,Puzzle,Toys,17,1822.02,2023-05-09
+119,Notebook,Office Supplies,5,1284.46,2024-12-26
+120,Doll,Toys,14,677.52,2023-11-27
+121,Smartwatch,Electronics,16,1969.86,2024-05-04
+122,Desk,Furniture,20,1235.72,2024-06-28
+123,Stapler,Office Supplies,15,625.92,2023-12-21
+124,Jacket,Clothing,9,1015.53,2024-11-09
+125,Action Figure,Toys,20,1449.01,2023-06-29
+126,Smartwatch,Electronics,9,835.9,2023-03-20
+127,Bookshelf,Furniture,11,1398.29,2024-12-08
+128,Shoes,Clothing,3,1254.45,2023-03-31
+129,Lego Set,Toys,12,759.37,2023-04-30
+130,Jacket,Clothing,18,288.06,2024-08-18
+131,Bookshelf,Furniture,10,544.43,2023-04-17
+132,Marker,Office Supplies,11,1157.21,2024-04-13
+133,Marker,Office Supplies,4,1518.12,2024-08-01
+134,Chair,Furniture,11,1340.06,2023-11-06
+135,Dress,Clothing,7,137.67,2023-10-12
+136,Desk,Furniture,1,1378.36,2023-12-11
+137,Chair,Furniture,7,1718.61,2023-09-13
+138,Shirt,Clothing,20,37.31,2024-09-17
+139,Notebook,Office Supplies,7,1092.93,2023-04-30
+140,Marker,Office Supplies,19,621.61,2023-07-23
+141,Desk,Furniture,7,176.56,2023-08-15
+142,Dress,Clothing,19,1874.79,2024-05-26
+143,Notebook,Office Supplies,18,612.95,2023-03-18
+144,Bookshelf,Furniture,7,76.84,2023-07-23
+145,Jacket,Clothing,16,1498.68,2024-03-16
+146,Table,Furniture,19,430.2,2024-04-22
+147,Couch,Furniture,16,265.79,2024-04-22
+148,Dress,Clothing,13,1570.77,2024-07-25
+149,Desk,Furniture,16,34.24,2024-04-27
+150,Dress,Clothing,1,1757.11,2023-08-21
+151,Smartphone,Electronics,13,1102.7,2024-09-08
+152,Pencil,Office Supplies,1,1825.38,2024-07-01
+153,Desk,Furniture,8,1223.44,2023-02-01
+154,Headphones,Electronics,9,735.26,2024-10-31
+155,Tablet,Electronics,18,1367.74,2024-10-30
+156,Desk,Furniture,13,75.39,2024-06-06
+157,Shoes,Clothing,19,1266.04,2024-11-22
+158,Dress,Clothing,19,1384.07,2023-09-03
+159,Marker,Office Supplies,1,978.2,2023-06-20
+160,Headphones,Electronics,8,994.78,2024-02-18
+161,Bookshelf,Furniture,10,1761.64,2024-04-27
+162,Desk,Furniture,5,694.24,2024-02-11
+163,Pen,Office Supplies,9,362.45,2023-06-07
+164,Doll,Toys,20,480.54,2024-08-14
+165,Action Figure,Toys,4,1021.52,2023-11-12
+166,Bookshelf,Furniture,1,1463.52,2023-08-29
+167,Dress,Clothing,16,644.18,2024-05-27
+168,Pen,Office Supplies,9,953.25,2023-02-23
+169,Jacket,Clothing,10,1163.72,2024-09-11
+170,Desk,Furniture,16,948.07,2024-12-09
+171,Pen,Office Supplies,19,1285.9,2024-09-19
+172,Bookshelf,Furniture,9,1252.71,2023-07-16
+173,Doll,Toys,16,1955.3,2024-01-31
+174,Laptop,Electronics,10,703.1,2023-11-07
+175,Jeans,Clothing,7,1592.88,2023-04-09
+176,Jacket,Clothing,5,617.02,2023-07-18
+177,Headphones,Electronics,16,1640.46,2024-02-04
+178,Stapler,Office Supplies,14,453.14,2024-05-21
+179,Chair,Furniture,11,685.67,2024-04-17
+180,Pencil,Office Supplies,8,247.3,2023-03-08
+181,Table,Furniture,1,6.03,2024-02-26
+182,Doll,Toys,9,249.15,2024-12-02
+183,Stapler,Office Supplies,10,1108.41,2023-01-21
+184,Desk,Furniture,1,1148.01,2023-10-19
+185,Board Game,Toys,4,1670.86,2025-01-06
+186,Headphones,Electronics,5,1595.06,2023-09-14
+187,Jacket,Clothing,8,1087.69,2023-04-24
+188,Shoes,Clothing,11,1302.3,2023-11-08
+189,Headphones,Electronics,10,1055.14,2024-11-10
+190,Couch,Furniture,5,1625.48,2024-10-24
+191,Dress,Clothing,16,1341.93,2024-03-28
+192,Shirt,Clothing,4,1766.06,2023-12-04
+193,Marker,Office Supplies,14,800.61,2023-10-22
+194,Lego Set,Toys,6,369.11,2024-03-11
+195,Board Game,Toys,5,1491.06,2024-06-25
+196,Chair,Furniture,14,654.54,2023-05-26
+197,Pencil,Office Supplies,4,1833.59,2024-08-26
+198,Bookshelf,Furniture,7,1641.51,2024-01-12
+199,Jeans,Clothing,19,1091.3,2024-09-01
+200,Pencil,Office Supplies,12,1189.13,2023-03-09
+201,Couch,Furniture,10,283.87,2023-01-24
+202,Chair,Furniture,9,645.51,2024-04-12
+203,Doll,Toys,20,757.97,2023-03-05
+204,Dress,Clothing,14,691.6,2023-01-22
+205,Pencil,Office Supplies,10,1778.48,2023-08-03
+206,Action Figure,Toys,7,453.76,2023-06-28
+207,Notebook,Office Supplies,15,50.42,2023-02-11
+208,Table,Furniture,19,1954.42,2024-12-28
+209,Tablet,Electronics,6,1765.01,2023-02-27
+210,Bookshelf,Furniture,12,1892.72,2024-09-16
+211,Jacket,Clothing,5,1585.8,2023-11-17
+212,Shoes,Clothing,18,1265.36,2024-02-09
+213,Marker,Office Supplies,15,211.25,2023-08-22
+214,Stapler,Office Supplies,13,182.26,2024-05-14
+215,Pen,Office Supplies,16,1196.51,2024-07-18
+216,Couch,Furniture,4,1669.34,2024-02-05
+217,Bookshelf,Furniture,18,44.15,2024-08-29
+218,Board Game,Toys,18,74.83,2023-11-30
+219,Stapler,Office Supplies,1,1999.01,2023-12-07
+220,Tablet,Electronics,12,473.8,2024-07-10
+221,Action Figure,Toys,12,1130.74,2023-11-20
+222,Puzzle,Toys,6,1631.57,2023-03-17
+223,Jacket,Clothing,7,416.04,2024-05-23
+224,Action Figure,Toys,7,83.9,2024-03-03
+225,Headphones,Electronics,9,95.59,2024-03-04
+226,Chair,Furniture,10,433.15,2024-05-04
+227,Shirt,Clothing,19,1776.82,2023-05-10
+228,Stapler,Office Supplies,12,1136.51,2023-08-15
+229,Bookshelf,Furniture,9,588.27,2023-03-17
+230,Table,Furniture,12,1364.8,2023-09-09
+231,Smartphone,Electronics,12,390.73,2023-03-14
+232,Chair,Furniture,11,1977.94,2024-02-13
+233,Bookshelf,Furniture,12,1252.0,2024-12-27
+234,Desk,Furniture,11,1548.01,2023-06-18
+235,Tablet,Electronics,3,1192.89,2024-09-30
+236,Notebook,Office Supplies,11,787.15,2023-05-12
+237,Chair,Furniture,1,130.97,2024-03-03
+238,Action Figure,Toys,1,1539.31,2023-09-22
+239,Couch,Furniture,2,1403.91,2023-11-11
+240,Chair,Furniture,8,1299.21,2024-04-11
+241,Table,Furniture,12,62.05,2024-05-18
+242,Jeans,Clothing,8,1051.02,2024-08-26
+243,Stapler,Office Supplies,4,1099.7,2024-10-21
+244,Pencil,Office Supplies,3,384.25,2024-05-30
+245,Bookshelf,Furniture,15,1755.73,2024-06-23
+246,Chair,Furniture,2,1134.26,2024-05-25
+247,Pen,Office Supplies,19,383.98,2023-03-04
+248,Tablet,Electronics,12,1090.98,2023-09-09
+249,Shoes,Clothing,8,1103.5,2024-07-07
+250,Bookshelf,Furniture,16,1330.95,2023-12-17
+251,Doll,Toys,7,183.87,2024-07-31
+252,Couch,Furniture,15,1988.57,2024-10-30
+253,Desk,Furniture,20,110.43,2023-07-16
+254,Doll,Toys,9,1456.18,2023-02-25
+255,Notebook,Office Supplies,12,1114.42,2023-07-20
+256,Shoes,Clothing,5,351.15,2023-03-19
+257,Shirt,Clothing,17,716.93,2024-12-30
+258,Doll,Toys,7,1783.37,2023-12-15
+259,Marker,Office Supplies,5,756.02,2023-04-12
+260,Chair,Furniture,3,242.21,2023-12-30
+261,Table,Furniture,14,1461.5,2024-05-01
+262,Smartphone,Electronics,1,290.92,2024-04-28
+263,Shirt,Clothing,1,502.91,2023-02-23
+264,Desk,Furniture,2,1144.03,2023-09-09
+265,Jacket,Clothing,8,946.87,2024-06-12
+266,Pencil,Office Supplies,7,264.35,2024-08-10
+267,Jacket,Clothing,9,156.49,2024-06-06
+268,Lego Set,Toys,20,1029.3,2024-08-09
+269,Tablet,Electronics,7,1045.89,2023-05-28
+270,Table,Furniture,13,1922.7,2023-04-14
+271,Laptop,Electronics,15,346.65,2023-01-21
+272,Couch,Furniture,20,1298.61,2024-07-14
+273,Bookshelf,Furniture,13,1496.21,2023-04-28
+274,Marker,Office Supplies,2,1463.37,2024-07-09
+275,Marker,Office Supplies,6,1114.66,2023-01-20
+276,Shirt,Clothing,5,1052.41,2023-05-19
+277,Couch,Furniture,13,190.12,2024-02-01
+278,Laptop,Electronics,11,1168.6,2023-10-08
+279,Stapler,Office Supplies,1,1617.54,2024-02-22
+280,Laptop,Electronics,8,1522.2,2024-02-17
+281,Laptop,Electronics,12,1206.78,2024-09-11
+282,Doll,Toys,16,496.52,2024-10-11
+283,Desk,Furniture,8,356.3,2024-07-24
+284,Marker,Office Supplies,5,1079.92,2023-08-01
+285,Laptop,Electronics,5,447.27,2023-05-21
+286,Jacket,Clothing,7,666.16,2023-10-27
+287,Table,Furniture,9,582.51,2023-04-20
+288,Marker,Office Supplies,5,686.07,2024-08-16
+289,Jacket,Clothing,7,76.38,2024-09-09
+290,Table,Furniture,6,1795.0,2024-11-20
+291,Doll,Toys,6,826.26,2023-08-08
+292,Headphones,Electronics,3,721.12,2024-08-03
+293,Table,Furniture,7,117.57,2024-11-30
+294,Doll,Toys,8,940.54,2023-04-13
+295,Dress,Clothing,14,1536.07,2024-09-02
+296,Board Game,Toys,7,894.48,2024-12-10
+297,Board Game,Toys,13,1152.67,2023-02-03
+298,Lego Set,Toys,11,467.83,2023-09-29
+299,Shoes,Clothing,11,1870.62,2024-09-29
+300,Pencil,Office Supplies,20,1210.9,2023-12-11
+301,Pencil,Office Supplies,10,293.92,2023-08-11
+302,Bookshelf,Furniture,13,709.11,2024-02-22
+303,Jeans,Clothing,19,1033.17,2023-03-02
+304,Notebook,Office Supplies,6,739.97,2023-08-04
+305,Table,Furniture,15,991.72,2024-07-18
+306,Pen,Office Supplies,8,1540.9,2024-04-03
+307,Chair,Furniture,2,334.27,2024-05-13
+308,Laptop,Electronics,15,1321.77,2023-03-12
+309,Bookshelf,Furniture,20,735.03,2024-02-01
+310,Lego Set,Toys,13,624.61,2023-12-31
+311,Smartphone,Electronics,10,1228.3,2024-02-12
+312,Lego Set,Toys,8,1121.4,2023-10-18
+313,Bookshelf,Furniture,1,1374.88,2023-02-24
+314,Dress,Clothing,6,790.85,2024-02-04
+315,Chair,Furniture,6,1876.31,2024-11-09
+316,Notebook,Office Supplies,2,200.09,2024-03-27
+317,Shirt,Clothing,3,1422.66,2023-05-21
+318,Couch,Furniture,6,937.57,2023-10-24
+319,Couch,Furniture,18,880.95,2023-05-14
+320,Puzzle,Toys,15,329.43,2023-07-29
+321,Couch,Furniture,15,1112.33,2024-09-03
+322,Board Game,Toys,8,384.33,2023-04-01
+323,Stapler,Office Supplies,9,88.11,2024-12-06
+324,Table,Furniture,17,1537.58,2024-04-01
+325,Marker,Office Supplies,19,530.34,2024-06-18
+326,Action Figure,Toys,13,1619.19,2024-07-26
+327,Couch,Furniture,1,1953.21,2023-04-11
+328,Lego Set,Toys,20,1328.27,2023-07-08
+329,Notebook,Office Supplies,10,378.38,2024-08-09
+330,Action Figure,Toys,12,1443.46,2024-02-11
+331,Dress,Clothing,10,1066.27,2023-01-13
+332,Laptop,Electronics,14,1114.49,2023-02-15
+333,Jeans,Clothing,6,1767.84,2024-11-08
+334,Shoes,Clothing,6,289.06,2024-11-12
+335,Smartphone,Electronics,13,1380.39,2023-01-21
+336,Jeans,Clothing,10,650.32,2023-07-20
+337,Desk,Furniture,11,583.46,2023-02-16
+338,Pencil,Office Supplies,19,730.49,2024-01-13
+339,Tablet,Electronics,10,284.07,2023-10-21
+340,Table,Furniture,5,1447.07,2023-11-05
+341,Notebook,Office Supplies,14,441.1,2024-12-26
+342,Table,Furniture,3,753.52,2023-05-08
+343,Pen,Office Supplies,11,321.04,2023-05-31
+344,Shirt,Clothing,7,764.44,2025-01-04
+345,Headphones,Electronics,14,1605.02,2024-11-08
+346,Lego Set,Toys,18,383.0,2023-02-08
+347,Laptop,Electronics,12,312.29,2024-03-16
+348,Pencil,Office Supplies,17,1107.82,2024-09-26
+349,Pencil,Office Supplies,10,1556.8,2024-12-21
+350,Shirt,Clothing,17,1816.48,2024-07-19
+351,Notebook,Office Supplies,9,592.79,2024-08-09
+352,Tablet,Electronics,15,1617.51,2024-06-04
+353,Puzzle,Toys,11,1167.34,2023-12-03
+354,Notebook,Office Supplies,3,1475.79,2023-07-05
+355,Bookshelf,Furniture,16,1676.21,2023-09-18
+356,Notebook,Office Supplies,12,1685.23,2023-07-23
+357,Action Figure,Toys,14,350.58,2023-12-01
+358,Puzzle,Toys,10,1303.53,2024-12-23
+359,Chair,Furniture,5,829.8,2024-07-24
+360,Smartwatch,Electronics,6,1815.65,2023-09-17
+361,Dress,Clothing,3,1295.16,2023-08-10
+362,Smartwatch,Electronics,13,1665.19,2024-10-14
+363,Notebook,Office Supplies,20,262.11,2023-03-13
+364,Jeans,Clothing,7,368.94,2024-03-30
+365,Chair,Furniture,11,556.89,2023-10-28
+366,Doll,Toys,8,811.24,2023-04-14
+367,Lego Set,Toys,2,1718.11,2024-02-05
+368,Pen,Office Supplies,4,867.67,2024-06-17
+369,Jacket,Clothing,13,691.38,2024-12-12
+370,Stapler,Office Supplies,18,1346.9,2023-02-21
+371,Couch,Furniture,15,353.62,2023-05-31
+372,Headphones,Electronics,3,1454.99,2023-07-04
+373,Dress,Clothing,2,1335.19,2024-09-27
+374,Table,Furniture,15,1383.47,2024-02-16
+375,Puzzle,Toys,20,347.47,2023-02-16
+376,Shirt,Clothing,11,455.4,2023-11-19
+377,Dress,Clothing,15,791.75,2023-03-06
+378,Table,Furniture,7,1842.06,2024-11-23
+379,Shoes,Clothing,4,1835.23,2024-01-08
+380,Laptop,Electronics,12,250.83,2024-11-14
+381,Dress,Clothing,6,493.81,2023-08-19
+382,Tablet,Electronics,5,1456.07,2024-09-03
+383,Lego Set,Toys,16,943.64,2024-10-29
+384,Jeans,Clothing,14,946.45,2023-09-10
+385,Table,Furniture,17,1534.56,2023-09-23
+386,Couch,Furniture,3,1506.83,2023-03-20
+387,Puzzle,Toys,18,1265.8,2024-03-16
+388,Board Game,Toys,4,731.81,2024-01-01
+389,Pencil,Office Supplies,20,776.29,2023-01-18
+390,Table,Furniture,8,1977.29,2023-10-25
+391,Headphones,Electronics,16,1572.46,2023-06-16
+392,Action Figure,Toys,9,902.92,2023-08-26
+393,Smartwatch,Electronics,7,1169.93,2024-03-24
+394,Marker,Office Supplies,15,372.36,2024-09-12
+395,Couch,Furniture,10,1924.58,2023-09-05
+396,Shoes,Clothing,9,687.32,2024-08-08
+397,Jeans,Clothing,4,668.86,2024-05-09
+398,Desk,Furniture,15,1267.02,2023-07-19
+399,Pencil,Office Supplies,1,210.38,2024-01-07
+400,Smartphone,Electronics,2,23.47,2023-10-25
+401,Lego Set,Toys,5,365.15,2024-04-15
+402,Jacket,Clothing,16,1724.35,2024-01-30
+403,Chair,Furniture,19,1989.41,2024-09-03
+404,Lego Set,Toys,13,1133.76,2024-09-05
+405,Action Figure,Toys,5,641.18,2023-06-12
+406,Smartphone,Electronics,12,1643.54,2024-08-02
+407,Bookshelf,Furniture,19,222.77,2024-12-11
+408,Doll,Toys,4,203.44,2024-03-11
+409,Doll,Toys,7,831.63,2024-08-24
+410,Smartwatch,Electronics,20,744.39,2024-09-21
+411,Jacket,Clothing,14,1611.75,2023-07-21
+412,Laptop,Electronics,4,971.55,2023-05-08
+413,Table,Furniture,6,1098.92,2023-01-16
+414,Bookshelf,Furniture,19,1106.42,2025-01-05
+415,Table,Furniture,12,1693.68,2023-11-26
+416,Shoes,Clothing,7,52.48,2023-01-30
+417,Shoes,Clothing,3,603.75,2023-07-11
+418,Laptop,Electronics,19,1897.83,2024-03-07
+419,Lego Set,Toys,9,10.01,2023-10-08
+420,Smartwatch,Electronics,14,325.89,2024-05-19
+421,Marker,Office Supplies,20,1477.77,2024-10-25
+422,Smartphone,Electronics,9,834.48,2024-07-03
+423,Shoes,Clothing,15,1947.62,2024-11-23
+424,Action Figure,Toys,19,1232.94,2023-01-19
+425,Stapler,Office Supplies,13,1940.52,2023-09-29
+426,Notebook,Office Supplies,18,740.93,2023-01-13
+427,Bookshelf,Furniture,13,1165.3,2024-08-23
+428,Desk,Furniture,17,1578.62,2024-06-05
+429,Dress,Clothing,4,1903.22,2023-10-31
+430,Doll,Toys,13,1682.1,2024-11-01
+431,Shoes,Clothing,19,1572.25,2024-08-07
+432,Pencil,Office Supplies,10,1594.16,2024-07-29
+433,Doll,Toys,20,1455.51,2023-09-07
+434,Pen,Office Supplies,3,1234.18,2023-04-02
+435,Pen,Office Supplies,16,659.08,2023-06-20
+436,Jeans,Clothing,15,1325.71,2024-02-27
+437,Notebook,Office Supplies,17,917.08,2023-07-15
+438,Bookshelf,Furniture,13,1207.4,2023-12-04
+439,Action Figure,Toys,1,1482.76,2024-01-29
+440,Pen,Office Supplies,15,306.36,2023-02-27
+441,Desk,Furniture,20,1392.36,2023-05-02
+442,Board Game,Toys,20,1441.51,2024-07-17
+443,Jeans,Clothing,17,1629.42,2023-08-17
+444,Shoes,Clothing,19,1337.0,2023-03-25
+445,Stapler,Office Supplies,8,374.77,2023-02-15
+446,Puzzle,Toys,7,493.95,2024-12-27
+447,Pencil,Office Supplies,11,64.28,2023-07-10
+448,Doll,Toys,17,1484.86,2024-12-08
+449,Doll,Toys,11,1778.36,2024-10-29
+450,Shoes,Clothing,3,361.87,2024-02-19
+451,Chair,Furniture,16,697.41,2023-11-28
+452,Couch,Furniture,15,1395.38,2024-07-09
+453,Smartwatch,Electronics,1,1196.7,2024-12-07
+454,Laptop,Electronics,12,1075.12,2023-10-28
+455,Doll,Toys,8,778.49,2024-01-03
+456,Notebook,Office Supplies,12,1630.39,2024-08-14
+457,Notebook,Office Supplies,7,1282.34,2023-03-18
+458,Shirt,Clothing,3,135.25,2024-04-07
+459,Action Figure,Toys,12,1165.61,2023-03-27
+460,Lego Set,Toys,8,1128.56,2024-02-08
+461,Board Game,Toys,14,1161.77,2023-04-25
+462,Marker,Office Supplies,19,373.39,2024-05-20
+463,Jacket,Clothing,15,783.27,2024-10-09
+464,Smartwatch,Electronics,20,698.77,2023-11-14
+465,Laptop,Electronics,14,1273.41,2023-03-11
+466,Stapler,Office Supplies,10,1691.41,2024-04-15
+467,Laptop,Electronics,7,1642.05,2024-03-28
+468,Stapler,Office Supplies,6,1304.2,2023-03-01
+469,Stapler,Office Supplies,3,754.71,2023-12-15
+470,Action Figure,Toys,8,1821.6,2024-06-09
+471,Jeans,Clothing,13,728.1,2023-04-23
+472,Bookshelf,Furniture,10,1756.11,2023-07-14
+473,Pencil,Office Supplies,19,866.99,2023-08-26
+474,Laptop,Electronics,8,1160.93,2023-08-02
+475,Chair,Furniture,10,1887.02,2024-11-02
+476,Pen,Office Supplies,1,388.06,2023-09-13
+477,Smartphone,Electronics,1,262.75,2024-12-31
+478,Desk,Furniture,16,189.29,2024-09-25
+479,Action Figure,Toys,13,1332.63,2023-11-13
+480,Table,Furniture,14,254.78,2024-07-09
+481,Jeans,Clothing,14,351.99,2024-10-19
+482,Couch,Furniture,5,1813.98,2024-08-05
+483,Laptop,Electronics,9,124.6,2023-09-22
+484,Shirt,Clothing,6,948.04,2023-09-16
+485,Pen,Office Supplies,6,1917.58,2023-12-29
+486,Desk,Furniture,2,1181.76,2023-08-11
+487,Desk,Furniture,3,340.6,2023-07-12
+488,Laptop,Electronics,17,1699.89,2023-03-11
+489,Table,Furniture,10,1778.34,2023-06-18
+490,Jeans,Clothing,20,64.63,2023-04-27
+491,Doll,Toys,2,834.83,2024-09-08
+492,Lego Set,Toys,10,1782.44,2024-09-01
+493,Smartwatch,Electronics,4,1096.1,2024-04-10
+494,Lego Set,Toys,7,649.69,2023-04-06
+495,Table,Furniture,14,447.89,2023-05-12
+496,Shoes,Clothing,7,428.15,2023-04-04
+497,Pencil,Office Supplies,2,563.7,2023-05-19
+498,Tablet,Electronics,3,1627.27,2023-12-27
+499,Doll,Toys,19,1708.25,2024-01-08
+500,Chair,Furniture,9,13.22,2023-09-12
+501,Marker,Office Supplies,12,1187.71,2023-11-23
+502,Board Game,Toys,9,1422.74,2023-04-15
+503,Action Figure,Toys,15,722.48,2024-03-03
+504,Pencil,Office Supplies,1,1021.39,2023-10-17
+505,Puzzle,Toys,19,1483.43,2024-09-01
+506,Shoes,Clothing,12,1894.21,2023-06-22
+507,Jacket,Clothing,19,1035.12,2023-12-29
+508,Tablet,Electronics,8,431.93,2023-09-08
+509,Board Game,Toys,14,1768.58,2024-01-06
+510,Desk,Furniture,15,369.66,2023-08-05
+511,Jacket,Clothing,3,1890.8,2024-11-04
+512,Tablet,Electronics,15,329.13,2023-04-15
+513,Jeans,Clothing,17,1585.08,2023-03-23
+514,Jacket,Clothing,15,347.88,2023-05-14
+515,Board Game,Toys,1,82.31,2024-09-30
+516,Shirt,Clothing,10,192.99,2024-06-27
+517,Action Figure,Toys,18,736.43,2023-09-05
+518,Stapler,Office Supplies,18,825.99,2024-10-14
+519,Pen,Office Supplies,14,344.04,2024-07-12
+520,Doll,Toys,1,598.25,2024-07-06
+521,Jacket,Clothing,18,1459.34,2024-04-24
+522,Action Figure,Toys,6,1322.12,2023-02-12
+523,Headphones,Electronics,7,1731.18,2023-06-28
+524,Tablet,Electronics,15,1370.62,2024-10-22
+525,Smartphone,Electronics,1,1282.15,2024-11-07
+526,Jacket,Clothing,8,207.88,2023-09-23
+527,Bookshelf,Furniture,7,1157.74,2023-05-07
+528,Chair,Furniture,8,1441.32,2023-03-23
+529,Notebook,Office Supplies,1,305.49,2024-07-17
+530,Puzzle,Toys,20,1266.62,2023-07-23
+531,Table,Furniture,18,1618.3,2023-10-15
+532,Tablet,Electronics,5,729.06,2023-11-15
+533,Action Figure,Toys,9,1139.73,2024-02-14
+534,Laptop,Electronics,8,1412.34,2023-02-19
+535,Puzzle,Toys,7,369.47,2024-06-20
+536,Notebook,Office Supplies,18,230.2,2023-09-01
+537,Dress,Clothing,14,155.77,2023-08-02
+538,Notebook,Office Supplies,1,579.46,2024-10-09
+539,Laptop,Electronics,1,155.97,2023-05-27
+540,Dress,Clothing,18,1003.98,2023-02-05
+541,Couch,Furniture,15,115.35,2023-11-22
+542,Pen,Office Supplies,3,1644.19,2024-11-05
+543,Pen,Office Supplies,6,48.51,2023-12-29
+544,Action Figure,Toys,15,1891.31,2024-03-18
+545,Tablet,Electronics,17,1655.03,2024-08-15
+546,Stapler,Office Supplies,3,985.72,2024-03-14
+547,Headphones,Electronics,19,1929.68,2023-07-25
+548,Jeans,Clothing,12,766.93,2023-03-26
+549,Pencil,Office Supplies,1,1406.91,2024-01-05
+550,Smartphone,Electronics,18,845.16,2023-04-01
+551,Table,Furniture,11,930.77,2024-09-27
+552,Shoes,Clothing,8,697.12,2024-09-19
+553,Laptop,Electronics,18,790.41,2023-04-30
+554,Board Game,Toys,4,519.84,2023-04-16
+555,Pencil,Office Supplies,11,1025.66,2023-01-21
+556,Stapler,Office Supplies,7,913.31,2023-02-28
+557,Jacket,Clothing,4,1361.49,2024-10-17
+558,Pen,Office Supplies,12,1521.86,2024-09-09
+559,Lego Set,Toys,1,1490.02,2023-07-03
+560,Action Figure,Toys,18,619.99,2023-04-23
+561,Chair,Furniture,17,1206.1,2023-06-14
+562,Jeans,Clothing,13,1433.88,2024-10-12
+563,Lego Set,Toys,17,1277.74,2023-11-19
+564,Lego Set,Toys,7,1827.02,2023-10-28
+565,Smartphone,Electronics,7,495.65,2024-06-28
+566,Stapler,Office Supplies,5,197.34,2024-05-15
+567,Shoes,Clothing,2,509.71,2025-01-09
+568,Pencil,Office Supplies,12,1424.3,2024-05-26
+569,Jacket,Clothing,4,717.99,2023-03-18
+570,Smartphone,Electronics,10,83.27,2024-04-08
+571,Doll,Toys,16,259.84,2024-04-11
+572,Jacket,Clothing,6,1649.25,2023-08-01
+573,Desk,Furniture,4,1003.43,2024-12-24
+574,Dress,Clothing,15,475.43,2024-10-04
+575,Pen,Office Supplies,18,13.09,2023-03-11
+576,Jeans,Clothing,8,205.08,2023-01-28
+577,Puzzle,Toys,20,1074.29,2023-03-03
+578,Headphones,Electronics,4,1805.57,2023-06-14
+579,Pencil,Office Supplies,11,520.26,2024-12-12
+580,Puzzle,Toys,18,1052.73,2024-05-27
+581,Couch,Furniture,20,198.48,2023-12-22
+582,Laptop,Electronics,6,184.12,2024-10-01
+583,Action Figure,Toys,17,305.53,2023-04-22
+584,Bookshelf,Furniture,2,173.18,2023-03-24
+585,Dress,Clothing,11,661.3,2024-12-14
+586,Doll,Toys,3,560.39,2024-10-31
+587,Bookshelf,Furniture,15,1841.48,2024-10-17
+588,Smartwatch,Electronics,13,1177.45,2024-10-01
+589,Couch,Furniture,5,647.35,2023-09-26
+590,Notebook,Office Supplies,8,1798.43,2023-04-17
+591,Stapler,Office Supplies,4,989.47,2023-02-14
+592,Dress,Clothing,11,1869.22,2024-01-05
+593,Action Figure,Toys,8,739.28,2023-02-20
+594,Jacket,Clothing,12,1720.98,2023-05-22
+595,Jeans,Clothing,10,1966.83,2024-12-29
+596,Notebook,Office Supplies,15,1784.22,2024-04-01
+597,Marker,Office Supplies,14,108.42,2023-12-14
+598,Puzzle,Toys,4,636.7,2024-10-11
+599,Lego Set,Toys,9,325.84,2024-07-27
+600,Jacket,Clothing,15,252.07,2023-11-14
+601,Lego Set,Toys,19,1016.56,2024-02-01
+602,Jacket,Clothing,11,1726.7,2023-02-03
+603,Pencil,Office Supplies,20,1357.05,2023-11-05
+604,Stapler,Office Supplies,19,1966.24,2024-06-25
+605,Smartphone,Electronics,20,896.16,2023-12-09
+606,Desk,Furniture,10,66.02,2023-05-26
+607,Smartwatch,Electronics,6,1804.69,2023-10-13
+608,Table,Furniture,12,1824.55,2023-06-27
+609,Smartwatch,Electronics,8,1458.62,2024-12-17
+610,Smartwatch,Electronics,11,422.35,2023-06-06
+611,Action Figure,Toys,2,788.82,2023-08-13
+612,Doll,Toys,8,1945.19,2023-08-17
+613,Notebook,Office Supplies,11,1691.66,2023-12-24
+614,Lego Set,Toys,17,1514.38,2024-11-28
+615,Dress,Clothing,4,1475.79,2023-05-07
+616,Dress,Clothing,3,286.24,2023-02-07
+617,Desk,Furniture,9,1892.81,2024-05-02
+618,Notebook,Office Supplies,3,1104.18,2024-05-06
+619,Jeans,Clothing,16,1538.46,2024-05-05
+620,Puzzle,Toys,9,1404.85,2023-07-21
+621,Smartwatch,Electronics,2,1952.88,2024-05-28
+622,Smartwatch,Electronics,1,384.73,2023-08-29
+623,Smartphone,Electronics,20,95.18,2024-02-03
+624,Marker,Office Supplies,3,581.95,2023-11-28
+625,Board Game,Toys,3,1978.85,2024-11-27
+626,Pen,Office Supplies,20,1147.86,2024-03-14
+627,Dress,Clothing,19,1918.12,2024-01-19
+628,Laptop,Electronics,6,1853.94,2023-02-28
+629,Laptop,Electronics,10,307.57,2023-03-21
+630,Doll,Toys,16,770.6,2023-08-17
+631,Dress,Clothing,16,468.03,2023-11-05
+632,Laptop,Electronics,3,574.94,2023-04-28
+633,Action Figure,Toys,6,1429.6,2023-12-03
+634,Lego Set,Toys,18,869.81,2023-06-15
+635,Dress,Clothing,10,1084.1,2024-05-25
+636,Smartphone,Electronics,7,1024.83,2024-11-29
+637,Smartwatch,Electronics,16,649.74,2024-09-22
+638,Smartphone,Electronics,7,862.41,2024-02-24
+639,Laptop,Electronics,9,904.71,2023-07-24
+640,Couch,Furniture,6,742.4,2024-05-15
+641,Stapler,Office Supplies,3,1656.88,2024-09-26
+642,Jacket,Clothing,8,833.91,2024-03-09
+643,Tablet,Electronics,1,594.56,2024-09-20
+644,Doll,Toys,9,1512.2,2023-01-27
+645,Smartphone,Electronics,13,803.53,2023-11-05
+646,Bookshelf,Furniture,8,732.59,2024-09-10
+647,Couch,Furniture,11,69.26,2024-07-19
+648,Dress,Clothing,7,1539.14,2023-10-17
+649,Dress,Clothing,5,808.63,2024-01-19
+650,Jacket,Clothing,9,1061.48,2024-03-09
+651,Doll,Toys,18,719.84,2024-09-09
+652,Headphones,Electronics,19,1071.48,2024-01-23
+653,Smartwatch,Electronics,8,1792.24,2023-10-06
+654,Chair,Furniture,20,1848.4,2024-12-20
+655,Desk,Furniture,20,1391.07,2024-03-26
+656,Lego Set,Toys,7,467.74,2024-02-06
+657,Marker,Office Supplies,17,332.28,2023-09-18
+658,Laptop,Electronics,5,1521.24,2023-11-09
+659,Board Game,Toys,8,763.76,2023-08-10
+660,Shoes,Clothing,14,153.8,2023-05-31
+661,Desk,Furniture,18,1002.83,2023-02-01
+662,Lego Set,Toys,14,29.66,2023-09-16
+663,Shirt,Clothing,2,753.64,2024-04-19
+664,Stapler,Office Supplies,1,1338.96,2023-07-01
+665,Shoes,Clothing,13,1957.81,2023-02-03
+666,Desk,Furniture,12,980.32,2024-12-07
+667,Pen,Office Supplies,6,1526.52,2024-10-02
+668,Chair,Furniture,14,406.19,2024-09-07
+669,Laptop,Electronics,15,1271.36,2023-08-18
+670,Lego Set,Toys,1,214.76,2023-02-26
+671,Table,Furniture,11,586.09,2024-10-01
+672,Lego Set,Toys,18,1064.06,2024-01-13
+673,Marker,Office Supplies,7,1710.39,2024-02-27
+674,Stapler,Office Supplies,5,1558.27,2023-10-16
+675,Smartphone,Electronics,4,1620.54,2024-08-29
+676,Smartphone,Electronics,12,1878.63,2024-04-09
+677,Action Figure,Toys,1,1678.98,2023-07-11
+678,Laptop,Electronics,9,1224.44,2023-05-15
+679,Dress,Clothing,3,1652.59,2023-03-30
+680,Smartphone,Electronics,13,1100.21,2023-07-23
+681,Action Figure,Toys,11,80.82,2024-06-05
+682,Bookshelf,Furniture,12,1687.56,2023-07-18
+683,Pen,Office Supplies,19,1252.65,2023-08-07
+684,Shirt,Clothing,10,607.71,2024-03-01
+685,Lego Set,Toys,6,420.12,2024-10-07
+686,Smartwatch,Electronics,4,1161.2,2024-09-17
+687,Shirt,Clothing,3,231.04,2024-12-24
+688,Lego Set,Toys,13,49.8,2024-08-06
+689,Pencil,Office Supplies,1,1278.82,2023-02-24
+690,Table,Furniture,5,1545.92,2024-08-27
+691,Shoes,Clothing,4,18.57,2023-07-01
+692,Laptop,Electronics,17,1556.07,2024-04-03
+693,Desk,Furniture,2,940.66,2024-10-30
+694,Desk,Furniture,12,184.9,2024-09-22
+695,Notebook,Office Supplies,6,92.93,2023-11-09
+696,Couch,Furniture,9,1797.24,2023-10-14
+697,Jacket,Clothing,1,1033.18,2025-01-07
+698,Pencil,Office Supplies,12,389.54,2024-10-24
+699,Jeans,Clothing,5,964.74,2024-10-29
+700,Jeans,Clothing,10,1758.51,2023-05-26
+701,Pencil,Office Supplies,20,1517.01,2023-05-28
+702,Desk,Furniture,11,1414.63,2023-07-14
+703,Stapler,Office Supplies,9,194.97,2024-04-16
+704,Smartphone,Electronics,18,1865.19,2023-09-16
+705,Chair,Furniture,10,1970.04,2024-09-29
+706,Couch,Furniture,19,1998.74,2024-08-07
+707,Dress,Clothing,2,1118.07,2024-07-06
+708,Board Game,Toys,9,1876.15,2023-10-17
+709,Desk,Furniture,20,1702.94,2024-12-21
+710,Smartphone,Electronics,16,1570.42,2024-04-15
+711,Smartwatch,Electronics,12,1523.56,2023-02-02
+712,Shoes,Clothing,19,1056.82,2024-07-11
+713,Jeans,Clothing,13,1663.39,2024-07-09
+714,Notebook,Office Supplies,20,1688.49,2023-10-12
+715,Tablet,Electronics,17,888.47,2024-03-27
+716,Marker,Office Supplies,17,253.12,2024-03-24
+717,Marker,Office Supplies,18,372.03,2023-05-02
+718,Chair,Furniture,12,1848.62,2024-03-24
+719,Smartwatch,Electronics,9,1053.22,2023-06-07
+720,Table,Furniture,14,440.34,2024-10-22
+721,Pencil,Office Supplies,9,67.24,2024-10-02
+722,Notebook,Office Supplies,7,1925.48,2024-11-26
+723,Doll,Toys,12,1161.34,2024-01-29
+724,Smartphone,Electronics,18,320.3,2024-03-08
+725,Desk,Furniture,2,844.08,2023-09-09
+726,Dress,Clothing,20,169.85,2023-05-28
+727,Table,Furniture,13,1348.35,2024-01-27
+728,Desk,Furniture,14,1446.61,2023-02-10
+729,Action Figure,Toys,5,1855.52,2023-03-23
+730,Bookshelf,Furniture,15,947.96,2023-02-24
+731,Puzzle,Toys,16,248.51,2023-07-11
+732,Lego Set,Toys,18,1186.49,2024-04-23
+733,Stapler,Office Supplies,10,1071.04,2023-06-30
+734,Pen,Office Supplies,20,1733.23,2023-01-27
+735,Marker,Office Supplies,20,1334.78,2024-02-24
+736,Headphones,Electronics,12,417.96,2024-01-18
+737,Puzzle,Toys,9,1818.6,2023-01-12
+738,Jacket,Clothing,7,912.0,2023-09-26
+739,Stapler,Office Supplies,4,1915.39,2024-12-24
+740,Pencil,Office Supplies,19,1777.6,2024-05-03
+741,Shoes,Clothing,6,1704.91,2023-06-17
+742,Shirt,Clothing,15,990.76,2024-09-29
+743,Shoes,Clothing,3,1327.39,2023-04-23
+744,Shoes,Clothing,4,687.76,2023-10-03
+745,Lego Set,Toys,3,123.25,2024-07-21
+746,Tablet,Electronics,18,142.73,2023-05-29
+747,Pen,Office Supplies,3,498.54,2024-12-25
+748,Couch,Furniture,15,1528.88,2024-09-26
+749,Smartwatch,Electronics,16,160.07,2024-10-28
+750,Doll,Toys,1,1568.73,2024-11-16
+751,Headphones,Electronics,5,367.13,2023-09-20
+752,Puzzle,Toys,9,691.92,2023-02-27
+753,Jacket,Clothing,10,1095.03,2023-01-29
+754,Tablet,Electronics,19,1973.72,2023-05-06
+755,Lego Set,Toys,8,1391.51,2024-04-11
+756,Shirt,Clothing,19,91.59,2024-07-12
+757,Marker,Office Supplies,6,1325.79,2024-12-24
+758,Action Figure,Toys,12,40.1,2023-05-02
+759,Pencil,Office Supplies,15,1041.61,2024-09-04
+760,Chair,Furniture,16,356.49,2023-04-08
+761,Marker,Office Supplies,18,318.53,2024-10-30
+762,Shirt,Clothing,14,507.18,2024-02-24
+763,Table,Furniture,19,645.38,2024-11-10
+764,Table,Furniture,7,608.02,2023-10-22
+765,Bookshelf,Furniture,2,1354.52,2023-03-09
+766,Shoes,Clothing,4,810.97,2023-10-29
+767,Couch,Furniture,8,1282.26,2024-07-12
+768,Smartphone,Electronics,18,1626.43,2024-06-09
+769,Desk,Furniture,14,1166.76,2023-11-15
+770,Stapler,Office Supplies,14,801.71,2024-04-11
+771,Board Game,Toys,19,386.29,2023-03-31
+772,Laptop,Electronics,15,1872.46,2023-09-30
+773,Puzzle,Toys,11,1448.71,2023-09-03
+774,Pen,Office Supplies,14,1754.26,2023-09-19
+775,Action Figure,Toys,14,753.37,2023-04-27
+776,Shoes,Clothing,5,54.48,2023-05-14
+777,Shoes,Clothing,11,1673.73,2024-08-02
+778,Dress,Clothing,17,1491.27,2023-12-17
+779,Smartwatch,Electronics,14,893.34,2024-09-18
+780,Shirt,Clothing,10,1273.73,2024-05-22
+781,Laptop,Electronics,20,1242.08,2024-01-25
+782,Tablet,Electronics,18,924.67,2024-05-30
+783,Shoes,Clothing,19,1657.07,2023-09-15
+784,Smartphone,Electronics,2,824.9,2023-05-27
+785,Couch,Furniture,20,1326.37,2024-07-14
+786,Stapler,Office Supplies,4,1678.96,2024-03-23
+787,Smartphone,Electronics,8,1048.08,2024-07-03
+788,Doll,Toys,8,646.73,2024-12-02
+789,Jeans,Clothing,4,954.41,2025-01-02
+790,Stapler,Office Supplies,1,372.66,2024-05-02
+791,Couch,Furniture,15,430.55,2024-09-14
+792,Lego Set,Toys,2,413.94,2023-10-16
+793,Shirt,Clothing,20,1244.53,2023-07-04
+794,Bookshelf,Furniture,16,250.65,2024-06-11
+795,Shirt,Clothing,8,1581.53,2024-04-13
+796,Puzzle,Toys,7,484.38,2024-10-05
+797,Couch,Furniture,12,1559.73,2023-05-28
+798,Shirt,Clothing,18,410.48,2023-11-01
+799,Pen,Office Supplies,8,436.33,2023-09-07
+800,Jeans,Clothing,9,1064.47,2024-08-04
+801,Couch,Furniture,7,715.12,2024-06-29
+802,Desk,Furniture,1,136.11,2023-08-28
+803,Marker,Office Supplies,18,653.74,2023-04-20
+804,Jeans,Clothing,2,295.5,2023-05-30
+805,Tablet,Electronics,10,1393.56,2024-07-31
+806,Pencil,Office Supplies,8,541.2,2023-01-13
+807,Couch,Furniture,6,1897.42,2024-07-10
+808,Notebook,Office Supplies,3,731.82,2024-03-31
+809,Smartwatch,Electronics,1,1902.91,2023-11-12
+810,Marker,Office Supplies,20,171.33,2024-11-02
+811,Lego Set,Toys,13,291.62,2024-09-01
+812,Table,Furniture,9,1360.99,2024-03-27
+813,Doll,Toys,4,1671.83,2023-02-06
+814,Laptop,Electronics,2,749.23,2023-06-02
+815,Shirt,Clothing,1,284.58,2024-04-23
+816,Pen,Office Supplies,2,1215.94,2023-09-16
+817,Jeans,Clothing,1,275.29,2024-12-27
+818,Shoes,Clothing,20,555.73,2024-10-01
+819,Dress,Clothing,6,229.64,2024-04-30
+820,Shirt,Clothing,20,59.75,2023-07-02
+821,Board Game,Toys,17,186.14,2024-05-22
+822,Notebook,Office Supplies,16,623.88,2024-03-26
+823,Board Game,Toys,10,1394.36,2023-04-02
+824,Tablet,Electronics,13,792.2,2025-01-08
+825,Couch,Furniture,9,508.07,2024-02-01
+826,Dress,Clothing,7,1786.34,2023-05-01
+827,Stapler,Office Supplies,4,144.9,2023-09-26
+828,Board Game,Toys,14,71.61,2024-08-12
+829,Lego Set,Toys,20,978.35,2023-03-13
+830,Stapler,Office Supplies,11,1554.72,2023-07-15
+831,Smartwatch,Electronics,6,1840.32,2023-10-08
+832,Smartwatch,Electronics,3,1307.43,2023-09-17
+833,Shoes,Clothing,14,367.54,2023-05-22
+834,Bookshelf,Furniture,18,714.52,2024-05-20
+835,Jacket,Clothing,15,1779.92,2024-11-29
+836,Smartphone,Electronics,8,1956.43,2023-03-21
+837,Bookshelf,Furniture,11,380.25,2024-10-11
+838,Action Figure,Toys,5,1608.46,2024-07-15
+839,Smartphone,Electronics,15,52.13,2024-06-15
+840,Jeans,Clothing,4,969.3,2024-05-22
+841,Dress,Clothing,20,1696.92,2024-07-31
+842,Puzzle,Toys,2,394.54,2024-11-30
+843,Action Figure,Toys,8,215.62,2023-09-29
+844,Headphones,Electronics,15,1206.13,2023-12-24
+845,Headphones,Electronics,16,1910.93,2023-01-20
+846,Chair,Furniture,10,1051.15,2023-08-05
+847,Pen,Office Supplies,1,225.63,2023-06-23
+848,Shirt,Clothing,15,1486.65,2023-07-24
+849,Smartphone,Electronics,17,290.25,2024-07-03
+850,Shoes,Clothing,12,330.0,2023-03-05
+851,Puzzle,Toys,19,1157.72,2023-10-11
+852,Laptop,Electronics,7,181.87,2023-07-30
+853,Lego Set,Toys,5,452.23,2024-09-14
+854,Pen,Office Supplies,12,733.04,2023-04-05
+855,Shirt,Clothing,20,1850.37,2024-07-24
+856,Couch,Furniture,1,1055.12,2023-01-12
+857,Action Figure,Toys,18,71.62,2023-02-18
+858,Desk,Furniture,8,909.52,2023-11-07
+859,Bookshelf,Furniture,16,266.22,2023-12-18
+860,Smartwatch,Electronics,4,1576.77,2024-08-03
+861,Pencil,Office Supplies,14,1757.27,2023-12-03
+862,Puzzle,Toys,18,1334.15,2023-05-21
+863,Action Figure,Toys,18,294.47,2024-11-29
+864,Notebook,Office Supplies,2,676.88,2023-11-29
+865,Jacket,Clothing,5,693.57,2024-01-29
+866,Board Game,Toys,16,1608.73,2024-11-26
+867,Doll,Toys,12,253.75,2023-11-02
+868,Dress,Clothing,7,166.68,2023-10-11
+869,Dress,Clothing,9,1711.89,2024-03-11
+870,Pencil,Office Supplies,9,1021.05,2023-10-30
+871,Puzzle,Toys,11,874.96,2023-03-31
+872,Smartphone,Electronics,15,203.86,2024-10-16
+873,Notebook,Office Supplies,14,1105.56,2024-01-19
+874,Table,Furniture,14,1405.2,2024-09-15
+875,Tablet,Electronics,20,1206.77,2024-11-13
+876,Jeans,Clothing,16,428.43,2024-04-04
+877,Bookshelf,Furniture,8,1214.29,2024-05-31
+878,Lego Set,Toys,14,43.67,2024-08-22
+879,Pencil,Office Supplies,6,168.64,2024-06-28
+880,Headphones,Electronics,11,1423.09,2023-07-06
+881,Notebook,Office Supplies,18,899.7,2023-05-18
+882,Pen,Office Supplies,10,1179.61,2023-12-28
+883,Doll,Toys,18,304.26,2023-03-10
+884,Notebook,Office Supplies,10,31.16,2024-09-23
+885,Bookshelf,Furniture,1,366.26,2024-10-29
+886,Couch,Furniture,20,54.76,2023-02-06
+887,Shirt,Clothing,4,319.3,2023-08-29
+888,Dress,Clothing,12,150.45,2023-01-27
+889,Doll,Toys,12,973.73,2023-09-16
+890,Bookshelf,Furniture,2,583.31,2023-08-02
+891,Marker,Office Supplies,16,934.84,2023-04-03
+892,Desk,Furniture,18,996.97,2023-03-10
+893,Lego Set,Toys,12,196.74,2023-10-04
+894,Lego Set,Toys,20,358.6,2023-05-24
+895,Pencil,Office Supplies,2,1612.53,2024-12-01
+896,Smartwatch,Electronics,16,1740.67,2023-10-30
+897,Lego Set,Toys,20,628.11,2023-05-16
+898,Smartphone,Electronics,12,1516.42,2024-08-02
+899,Notebook,Office Supplies,17,1870.56,2023-03-11
+900,Lego Set,Toys,14,1513.17,2024-03-11
+901,Lego Set,Toys,3,1935.03,2024-12-09
+902,Board Game,Toys,7,64.24,2023-03-25
+903,Bookshelf,Furniture,13,1719.24,2023-10-01
+904,Notebook,Office Supplies,5,1691.04,2024-04-17
+905,Laptop,Electronics,20,1980.96,2024-05-02
+906,Lego Set,Toys,19,1865.94,2024-12-05
+907,Couch,Furniture,15,1351.75,2024-01-21
+908,Doll,Toys,16,476.81,2024-07-12
+909,Tablet,Electronics,7,787.13,2023-02-05
+910,Board Game,Toys,17,1275.43,2023-12-13
+911,Chair,Furniture,17,600.17,2024-06-02
+912,Couch,Furniture,10,1790.89,2023-05-20
+913,Tablet,Electronics,8,612.61,2024-04-27
+914,Chair,Furniture,13,1408.39,2024-12-03
+915,Action Figure,Toys,7,1594.18,2023-12-15
+916,Shirt,Clothing,20,763.68,2023-05-14
+917,Stapler,Office Supplies,9,885.42,2023-02-22
+918,Board Game,Toys,9,1794.52,2023-03-31
+919,Desk,Furniture,19,580.0,2023-09-26
+920,Chair,Furniture,17,1926.78,2023-06-20
+921,Stapler,Office Supplies,17,1486.78,2023-06-08
+922,Stapler,Office Supplies,1,1830.97,2023-11-25
+923,Table,Furniture,2,1172.59,2024-07-06
+924,Dress,Clothing,1,1965.85,2024-03-17
+925,Stapler,Office Supplies,20,1856.62,2024-07-25
+926,Marker,Office Supplies,3,97.89,2024-12-30
+927,Bookshelf,Furniture,7,519.52,2024-07-31
+928,Pen,Office Supplies,2,411.2,2024-03-06
+929,Couch,Furniture,12,166.18,2023-08-06
+930,Desk,Furniture,19,1562.64,2024-06-08
+931,Bookshelf,Furniture,15,1829.45,2023-08-18
+932,Chair,Furniture,13,940.81,2023-08-30
+933,Doll,Toys,9,1524.73,2023-07-15
+934,Laptop,Electronics,11,613.86,2023-03-27
+935,Lego Set,Toys,20,820.77,2023-02-19
+936,Couch,Furniture,13,1839.5,2023-11-13
+937,Jeans,Clothing,10,1303.28,2024-03-31
+938,Tablet,Electronics,18,746.53,2024-03-13
+939,Tablet,Electronics,16,760.46,2024-10-25
+940,Stapler,Office Supplies,1,341.88,2024-01-28
+941,Bookshelf,Furniture,14,102.95,2023-05-11
+942,Action Figure,Toys,18,484.12,2023-02-23
+943,Pencil,Office Supplies,1,1083.91,2023-10-19
+944,Shirt,Clothing,6,314.23,2023-01-14
+945,Board Game,Toys,8,1644.7,2023-12-10
+946,Pen,Office Supplies,16,1964.99,2023-03-21
+947,Board Game,Toys,5,935.91,2023-08-28
+948,Shoes,Clothing,12,945.97,2024-10-12
+949,Marker,Office Supplies,8,1578.93,2024-06-09
+950,Puzzle,Toys,12,1936.15,2024-05-11
+951,Lego Set,Toys,9,1639.84,2024-04-22
+952,Board Game,Toys,17,670.16,2024-01-20
+953,Shoes,Clothing,6,1803.2,2023-06-16
+954,Action Figure,Toys,18,325.5,2023-03-28
+955,Dress,Clothing,9,151.79,2023-01-31
+956,Smartwatch,Electronics,11,1314.37,2023-06-21
+957,Pencil,Office Supplies,1,1247.11,2023-05-24
+958,Tablet,Electronics,13,241.57,2024-05-21
+959,Chair,Furniture,3,1748.38,2023-08-26
+960,Puzzle,Toys,11,1644.7,2023-03-16
+961,Smartphone,Electronics,14,1397.91,2024-01-14
+962,Puzzle,Toys,18,1703.52,2024-10-28
+963,Chair,Furniture,17,987.15,2023-04-11
+964,Bookshelf,Furniture,8,554.76,2023-09-08
+965,Jeans,Clothing,12,1050.51,2024-09-12
+966,Lego Set,Toys,16,1104.93,2023-11-16
+967,Puzzle,Toys,1,1548.65,2024-01-12
+968,Dress,Clothing,9,936.57,2024-01-26
+969,Shirt,Clothing,16,638.96,2024-12-07
+970,Chair,Furniture,2,1038.89,2024-06-08
+971,Doll,Toys,4,1313.03,2023-08-05
+972,Puzzle,Toys,11,1955.6,2023-03-23
+973,Doll,Toys,8,255.72,2024-05-24
+974,Stapler,Office Supplies,9,1287.52,2024-03-09
+975,Jacket,Clothing,2,1512.51,2023-11-09
+976,Chair,Furniture,12,1217.66,2023-06-04
+977,Shoes,Clothing,20,399.5,2023-10-27
+978,Jeans,Clothing,16,1744.18,2024-11-29
+979,Pen,Office Supplies,20,1822.31,2023-11-04
+980,Pen,Office Supplies,2,773.88,2023-10-25
+981,Smartphone,Electronics,20,1036.68,2023-06-05
+982,Table,Furniture,2,926.16,2023-12-24
+983,Pen,Office Supplies,7,1126.85,2023-02-15
+984,Couch,Furniture,9,1817.51,2023-08-04
+985,Couch,Furniture,1,39.33,2023-12-19
+986,Jacket,Clothing,20,523.42,2024-01-08
+987,Stapler,Office Supplies,13,1557.66,2023-08-04
+988,Shoes,Clothing,5,683.29,2023-07-06
+989,Jeans,Clothing,17,464.83,2024-10-23
+990,Headphones,Electronics,5,42.72,2023-08-08
+991,Jacket,Clothing,8,1434.58,2024-03-25
+992,Doll,Toys,11,649.79,2023-02-28
+993,Board Game,Toys,10,843.88,2023-05-09
+994,Smartwatch,Electronics,12,865.89,2024-08-18
+995,Smartwatch,Electronics,4,1040.44,2024-07-05
+996,Couch,Furniture,17,1442.48,2024-06-13
+997,Puzzle,Toys,5,1409.13,2023-03-28
+998,Couch,Furniture,15,928.57,2023-03-19
+999,Pencil,Office Supplies,3,247.84,2024-06-13
+1000,Couch,Furniture,5,118.05,2023-10-06
