@@ -8,19 +8,19 @@ Este projeto é uma pipeline de dados que realiza a extração, transformação 
 
 A estrutura do projeto é a seguinte:
 
-*data_pipeline/
-*│
-*├── data/
-*│ └── raw/
-*│ └── sales_data.csv # Arquivo CSV com dados de vendas
-*│
-*├── scripts/
-*│ ├── extract.py # Script para extrair dados do CSV
-*│ ├── transform.py # Script para transformar os dados
-*│ └── load.py # Script para carregar os dados no banco de dados
-*│
-*├── main.py # Script principal que executa a pipeline
-*└── requirements.txt # Dependências do projeto
+*data_pipeline/*
+*│*
+*├── data/*
+*│ └── raw/*
+*│ └── sales_data.csv # Arquivo CSV com dados de vendas*
+*│*
+*├── scripts/*
+*│ ├── extract.py # Script para extrair dados do CSV*
+*│ ├── transform.py # Script para transformar os dados*
+*│ └── load.py # Script para carregar os dados no banco de dados*
+*│*
+*├── main.py # Script principal que executa a pipeline*
+*└── requirements.txt # Dependências do projeto*
 
 
 ## Dependências
