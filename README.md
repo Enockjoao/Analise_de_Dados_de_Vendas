@@ -20,7 +20,7 @@ A estrutura do projeto é a seguinte:
 -│ └── load.py # Script para carregar os dados no banco de dados
 -│
 -├── main.py # Script principal que executa a pipeline
--└── requirements.txt # Dependências do projeto```
+-└── requirements.txt # Dependências do projeto´´´
 
 
 ## Dependências
