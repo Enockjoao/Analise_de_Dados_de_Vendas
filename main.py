@@ -1,6 +1,7 @@
 from scripts.extract import extract_data
 from scripts.transform import transform_data
 from scripts.load import load_csv
+from visualizations.plot_sales import plot_sales_by_category, plot_sales_with_seaborn
 import pandas as pd
 
 def main():
@@ -21,6 +22,10 @@ def main():
     
     # 3. Carregar
     df = load_csv(raw_file_path)  # Carregue o DataFrame usando load_csv
+    
+    # 4. Plotar
+    plot_sales_by_category(df)  # Chame a função de plotagem
+    plot_sales_with_seaborn(df)  # Chame a nova função de plotagem com Seaborn
     
     print("Pipeline concluído com sucesso!")
 
