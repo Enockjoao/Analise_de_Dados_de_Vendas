@@ -8,7 +8,7 @@ Este projeto é uma pipeline de dados que realiza a extração, transformação 
 
 A estrutura do projeto é a seguinte:
 
--data_pipeline/
+```-data_pipeline/
 -│
 -├── data/
 -│ └── raw/
@@ -20,7 +20,7 @@ A estrutura do projeto é a seguinte:
 -│ └── load.py # Script para carregar os dados no banco de dados
 -│
 -├── main.py # Script principal que executa a pipeline
--└── requirements.txt # Dependências do projeto
+-└── requirements.txt # Dependências do projeto```
 
 
 ## Dependências
