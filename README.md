@@ -114,23 +114,4 @@ Este projeto pode ser expandido com:
 
 ---
 
-## **Contribuições** 🤝💡📤
-
-Contribuições são sempre bem-vindas! Para contribuir:
-1. Faça um fork do repositório.
-2. Crie um branch para sua feature ou correção:
-   ```bash
-   git checkout -b minha-feature
-   ```
-3. Envie um pull request.
-
----
-
-## **Licença** 📄🔓🌟
-
-Este projeto está licenciado sob a [MIT License](LICENSE). Sinta-se à vontade para usá-lo e adaptá-lo.
-
----
-
-> **Nota:** Este projeto é perfeito para profissionais em início de carreira na área de engenharia de dados que desejam demonstrar habilidades práticas e conhecimento de pipelines ETL. 🎓📈🚀
 
