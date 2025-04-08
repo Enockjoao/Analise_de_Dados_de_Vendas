@@ -5,22 +5,22 @@ from visualizations.plot_sales import plot_sales_by_category, plot_sales_with_se
 import pandas as pd
 
 def main():
-    # Caminhos
+    
     raw_file_path = r"C:\Users\vitor\Desktop\Pasta_de_Projetos\Analise_de_Dados_de_Vendas\data_pipeline\data\raw\sales_data.csv"
     processed_db_path = "database/sales.db"
     
-    # Pipeline
+   
     print("Iniciando o pipeline de dados...")
     
-    # 1. Extrair
+    
     df = extract_data(raw_file_path)
     if df is None:
         return
     
-    # 2. Transformar
+   
     df = transform_data(df)
     
-    # 3. Carregar
+ 
     df = load_csv(raw_file_path)  # Carregue o DataFrame usando load_csv
     
     # 4. Plotar
